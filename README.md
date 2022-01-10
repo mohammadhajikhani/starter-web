@@ -1,3 +1,3 @@
-## main title
+# main title
 
-# sub-title
+## sub-title
